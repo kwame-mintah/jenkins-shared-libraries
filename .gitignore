@@ -1,0 +1,8 @@
+# Project VSCode settings
+.vscode
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
